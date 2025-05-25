@@ -1,3 +1,3 @@
 # Underline Animation
 
-- [Live Demo](https://ivobul.github.io/underline-animation/)
+[Live Demo](https://ivobul.github.io/underline-animation/)
